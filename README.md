@@ -10,11 +10,11 @@
   <p align="center">
     <em>
       Hey, this is Ashutosh Tiwari, <b>a graduate</b>from <a href="https://www.srmist.edu.in/"> <b>SRM University</b>, Chennai, INDIA</a>. <br>
-      <b>A passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who likes working with <b>Web Technologies</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>Not only a <b>Tech Enthusiast</b> 👨‍💻 I also love working with <b>SEO</b>
-      and <b>Tech Content Writing.</b> Here are some work 👉 <a href="https://inclinedscorpio.com">Inclined Scorpio 🔥</a>  
+      <b>A passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who likes working with <b>Web Technologies</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br><br><br>Not only a <b>Tech Enthusiast</b> 👨‍💻 !!<br><br>I also love exploring <b>SEO</b>
+      and <b>Tech Content Writing.</b> Here it is 👉 <a href="https://inclinedscorpio.com">Inclined Scorpio</a>  
     </em> 
     <br>
-   <b><i align="center">Have a great idea ? 😃 Let's Explore !</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+   <b><i align="center">Got some Idea to work on ? 😃 Let's Explore !</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
   </p>
   <br><br>
   <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -23,8 +23,8 @@
   
   ✔ I’m currently developing and enhancing the best practices and design patterns.<br>
   ✔ I’m currently learning about **Devops**🥰<br>
-  ✔ I ❤️ to share tech notes with the community<br>
+  ✔ I ❤️ to create & share tech notes with the community<br>
   ✔ Ping me if you have a great idea! Let's take it to the next level 🚀<br>
-  <br><br><br><br>
+  
    
   
