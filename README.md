@@ -10,8 +10,8 @@
   <p align="center">
     <em>
       Hey, this is Ashutosh Tiwari, <b>a graduate</b>from <a href="https://www.srmist.edu.in/"> <b>SRM University</b>, Chennai, INDIA</a>. <br>
-      <b>A passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who likes working with <b>Web Technologies</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>Along diving in tech <b>SEO</b>
-      and <b>tech content writing</b> are something which goes in about section! 
+      <b>A passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who likes working with <b>Web Technologies</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>Not only a <b>Tech Enthusiast</b> 👨‍💻 I also love working with <b>SEO</b>
+      and <b>Tech Content Writing.</b> Here are some work 👉 <a href="https://inclinedscorpio.com">Inclined Scorpio 🔥</a>  
     </em> 
     <br>
    <b><i align="center">Have a great idea ? 😃 Let's Explore !</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
