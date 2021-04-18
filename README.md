@@ -6,7 +6,7 @@
   <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😃 Ashutosh Tiwari </h1>
   <h3 align="center">A Full Stack Web Developer | Writer </h3>
   <p align="center">
-  <a href="https://www.linkedin.com/in/ashutosh3309/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="lin_ovindu" height="30" width="30" /></a>  
+  <a href="https://www.linkedin.com/in/ashutosh3309/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="30" /></a>  
   </p>
   
   
@@ -36,5 +36,28 @@
 <br>
   
   <hr/>
+
+  <h2>Let me share you some notes 🥳</h2>
+  <table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📔 Tech Notes!</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://inclinedscorpio.com/?p=3215"><b>Kubernetes</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.evernote.com/shard/s637/sh/7911d994-4a86-791a-4b7d-cc2827c72937/ef21ebae653307021bea832a1af51c49"><b>Docker</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.evernote.com/shard/s637/sh/b9381086-3098-4dbe-bed3-e9e4979d0a90/6a56deac1b5313df3e2723f439a6b75a"><b>Angular</b></a></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/AshutoshTiwari1208/github-noob-guide"><b>Git/Github</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
   
