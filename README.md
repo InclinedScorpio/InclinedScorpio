@@ -17,7 +17,7 @@
       <b>A passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who likes working with <b>Web Technologies</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp<br><br>Not only a <b>Tech Enthusiast</b> 👨‍💻 !!<br><br>I also love exploring <b>SEO</b>
       and <b>Tech Content Writing.</b> Here it is 👉 <a href="https://inclinedscorpio.com">Inclined Scorpio</a>  
     </em> 
-    <br>
+    <br><br>
    <b><i align="center">Got some Idea to work on ? 😃 Let's Explore !</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
   </p>
   <br><br>
@@ -36,6 +36,9 @@
 <br>
   
   <hr/>
+
+  <img align="right" width=200px height=200px alt="side_sticker" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" />
+
 
   <h2>Let me share you some notes 🥳</h2>
   <table>
