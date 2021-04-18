@@ -1,8 +1,8 @@
 
-<center>
+<div align="center">
 <img src="./resources/ashutosh-tiwari-working-top.gif" width="120px" style="border-radius: 20%;">
 
- </center>
+ </div>
   <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 😃 Ashutosh Tiwari </h1>
   <h3 align="center">A Full Stack Web Developer | Writer </h3>
   <p align="center">
