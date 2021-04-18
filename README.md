@@ -14,7 +14,7 @@
   <p align="center">
     <em>
       I am <b>a graduate</b> from <a href="https://www.srmist.edu.in/"> <b>SRM University</b>, Kattankulathur, INDIA</a>. <br>
-      <b>A passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who likes working with <b>Web Technologies</b>&nbsp;<img src="./resources/ashutosh-tiwari-designer.gif" width="36px">&nbsp<br><br>Not only a <b>Tech Enthusiast</b> 👨‍💻 !!<br><br>I also love exploring <b>SEO</b>
+      <b>A passionate self learner</b> <img src="./resources/ashutosh-tiwari-developer.gif" width="30px"> who likes working with <b>Web Technologies</b>&nbsp;<img src="./resources/ashutosh-tiwari-designer.gif" width="36px">&nbsp<br><br>Not only a <b>Tech Enthusiast</b> 👨‍💻 !!<br><br>I also love exploring <b>SEO</b>
       and <b>Tech Content Writing.</b> Here it is 👉 <a href="https://inclinedscorpio.com">Inclined Scorpio</a>  
     </em> 
     <br><br>
