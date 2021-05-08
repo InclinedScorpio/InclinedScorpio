@@ -65,7 +65,7 @@
    </tr>
   </tbody>
 </table>
-
+<hr/>
 <table>
   <thead align="center">
     <tr border: none;>
