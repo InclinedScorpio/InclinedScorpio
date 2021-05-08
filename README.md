@@ -60,6 +60,9 @@
      <tr>
       <td><a href="https://github.com/AshutoshTiwari1208/github-noob-guide"><b>Git/Github</b></a></td>
     </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=y5U4KI0vxiI&ab_channel=InclinedScorpio"><b>Java Core (Hindi)</b></a></td>
+    </tr>
    <tr>
     <td>...be Tuned 😉</td>
    </tr>
