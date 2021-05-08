@@ -64,6 +64,9 @@
       <td><a href="https://www.youtube.com/watch?v=y5U4KI0vxiI&ab_channel=InclinedScorpio"><b>Java Core (Hindi)</b></a></td>
     </tr>
    <tr>
+      <td><a href="https://github.com/squareboat/api-guidelines"><b>API Guidelines(⭐️)</b></a></td>
+    </tr> 
+   <tr>
     <td>...be Tuned 😉</td>
    </tr>
   </tbody>
