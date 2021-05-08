@@ -69,7 +69,7 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>😃👀 Checkout my work!</b></td>
+      <td><b>👀 Checkout my work!</b></td>
     </tr>
   </thead>
   <tbody>
