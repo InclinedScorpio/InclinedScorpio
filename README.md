@@ -4,7 +4,7 @@
 
  </div>
   <h1 align="center"><img src="./resources/ashutosh-tiwari-hi.gif" width="30px"> 😃 Ashutosh Tiwari </h1>
-  <h3 align="center">A Full Stack Web Developer | Blogger | Trader </h3>
+  <h3 align="center">Full Stack Web Development | Blogging | Trading | Affiliate Marketing </h3>
   <p align="center">
   <a href="https://www.linkedin.com/in/ashutosh3309/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="30" /></a>  
   </p>
