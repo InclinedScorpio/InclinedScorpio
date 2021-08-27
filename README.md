@@ -57,6 +57,9 @@
     <tr>
       <td><a href="https://www.evernote.com/shard/s637/sh/b9381086-3098-4dbe-bed3-e9e4979d0a90/6a56deac1b5313df3e2723f439a6b75a"><b>Angular</b></a></td>
     </tr>
+   <tr>
+     <td><a href="https://www.evernote.com/shard/s637/sh/9626975f-2ba3-48f1-8839-78f4a4bbd2ce/770076d4fa4876fd4ec6c1bfadbdeba5"><b>SQL</b></a></td>
+   </tr>
      <tr>
       <td><a href="https://github.com/AshutoshTiwari1208/github-noob-guide"><b>Git/Github</b></a></td>
     </tr>
