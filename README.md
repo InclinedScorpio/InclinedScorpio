@@ -60,6 +60,13 @@
    <tr>
      <td><a href="https://www.evernote.com/shard/s637/sh/9626975f-2ba3-48f1-8839-78f4a4bbd2ce/770076d4fa4876fd4ec6c1bfadbdeba5"><b>SQL</b></a></td>
    </tr>
+    </tr>
+     <tr>
+      <td><a href="https://www.evernote.com/shard/s637/sh/a43124fa-fb3a-4f75-9034-3e9a549bca60/c2e3540a7f88e0f0cf39c8fbe2ab31e4"><b>React.js</b></a></td>
+    </tr>
+     <tr>
+      <td><a href="https://www.evernote.com/shard/s637/sh/90889906-8389-4acd-9375-103a87a76431/011ea5af811239ba772822a3b063300f"><b>Node.js Concepts</b></a></td>
+    </tr>
      <tr>
       <td><a href="https://github.com/AshutoshTiwari1208/github-noob-guide"><b>Git/Github</b></a></td>
     </tr>
