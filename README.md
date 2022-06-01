@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="./resources/ashutosh-tiwari-github.gif" width="100px" style="border-radius: 50%;">
+<img src="./resources/ashutosh-tiwari-github.gif" width="10px" style="border-radius: 50%;">
 
  </div>
   <h1 align="center"><img src="./resources/ashutosh-tiwari-hi.gif" width="30px"> 😃 Ashutosh Tiwari </h1>
