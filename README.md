@@ -1,9 +1,9 @@
 
 <div align="center">
-<img src="./resources/ashutosh-tiwari-github.gif" width="5px" style="border-radius: 50%;">
+<img src="./resources/ashutosh-tiwari-github.gif" width="80" height="80" style="border-radius: 50%;">
 
  </div>
-  <h1 align="center"><img src="./resources/ashutosh-tiwari-hi.gif" width="30px"> 😃 Ashutosh Tiwari </h1>
+  <h1 align="center"><img src="./resources/ashutosh-tiwari-hi.gif" width="40" height="40"> 😃 Ashutosh Tiwari </h1>
   <h3 align="center">Full Stack Web Development | Blogging | Affiliate Marketing | SEO | Crypto </h3>
   <p align="center">
   <a href="https://www.linkedin.com/in/ashutosh3309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/InclinedScorpio/InclinedScorpio/master/resources/linkedin_icon.png" alt="lin_ovindu" height="30" width="30" /></a>  
@@ -14,18 +14,18 @@
   <p align="center">
     <em>
       I am <b>a graduate</b> from <a href="https://www.srmist.edu.in/"> <b>SRM University</b>, Kattankulathur, INDIA</a>. <br>
-      <b>A passionate self learner</b> <img src="./resources/ashutosh-tiwari-developer.gif" width="30px"> who likes working with <b>Web Technologies</b>&nbsp;<img src="./resources/ashutosh-tiwari-designer.gif" width="36px">&nbsp<br><br>Not only a <b>Tech Enthusiast</b> 👨‍💻 !!<br><br>I also love exploring <b>SEO</b>
+      <b>A passionate self learner</b> <img src="./resources/ashutosh-tiwari-developer.gif" width="65" height="50"> who likes working with <b>Web Technologies</b>&nbsp;<img src="./resources/ashutosh-tiwari-designer.gif" width="70" height="50">&nbsp<br><br>Not only a <b>Tech Enthusiast</b> 👨‍💻 !!<br><br>I also love exploring <b>SEO</b>
       and <b>Tech Content Writing.</b> Here it is 👉 <a href="https://inclinedscorpio.com">Inclined Scorpio</a>  
     </em> 
     <br><br>
-   <b><i align="center">Got some Idea to work on ? 😃 Let's Explore !</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+   <b><i align="center">Got some Idea to work on ? 😃 Let's Explore !</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" height="40" />
   </p>
   <br><br>
   <img align="right" width=200px height=200px alt="side_sticker" src="./resources/ashutosh-tiwari-earth.gif" />
 
 
   
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="50">&nbsp;***About me ....***
   
   ✔ I’m currently developing and enhancing the Best Practices and Design Patterns 🌀<br>
   ✔ I’m currently learning about **Devops** & **Cloud** ☁️<br>
