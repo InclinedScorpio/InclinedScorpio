@@ -40,7 +40,7 @@
   <img align="right" width=200px height=200px alt="side_sticker" src="./resources/ashutosh-tiwari-pc.gif" />
 
 
-  <h2>Let me share you some notes I created 😇</h2>
+  <h2>Let me share you some notes i created 😇</h2>
   <table>
   <thead align="center">
     <tr border: none;>
