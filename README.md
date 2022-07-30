@@ -49,7 +49,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://inclinedscorpio.com/?p=3215"><b>Kubernetes</b></a></td>
+      <td><a href="https://www.evernote.com/shard/s637/sh/ff44fd2f-1416-3edb-064c-19591f5f4d4b/820cbabf9fb7e369c0e92272e615c890"><b>Kubernetes</b></a></td>
     </tr>
    <tr>
       <td><a href="https://www.evernote.com/shard/s637/client/snv?noteGuid=02529308-2b5a-15c1-c951-d2b995c8c75b&noteKey=a0516b9a535daa3071a5496ead9877e6&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs637%2Fsh%2F02529308-2b5a-15c1-c951-d2b995c8c75b%2Fa0516b9a535daa3071a5496ead9877e6&title=K3D%253A%2BPlay%2B%2526%2BKickstart%2BK8%2527s%2B%25E2%259B%25B9%25EF%25B8%258F%25E2%2580%258D%25E2%2599%2582%25EF%25B8%258F"><b> K3D: Play & Kickstart K8s</b></a></td>
