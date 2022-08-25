@@ -13,7 +13,7 @@
   
   <p align="center">
     <em>
-      I am <b>a graduate</b> from <a href="https://www.srmist.edu.in/"> <b>SRM University</b>, Kattankulathur, INDIA</a>. <br>
+      I am <b>currently a Grad Student </b> at <a href="https://www.usc.edu/"> <b>University of Southern California</b>, Los Angeles, USA</a>. <br>
       <b>A passionate self learner</b> <img src="./resources/ashutosh-tiwari-developer.gif" width="55" height="40"> who likes working with <b>Web Technologies</b>&nbsp;<img src="./resources/ashutosh-tiwari-designer.gif" width="70" height="45">&nbsp<br><br>Not only a <b>Tech Enthusiast</b> 👨‍💻 !!<br><br>I also love exploring <b>SEO</b>
       and <b>Tech Content Writing.</b> Here it is 👉 <a href="https://inclinedscorpio.com">Inclined Scorpio</a>  
     </em> 
