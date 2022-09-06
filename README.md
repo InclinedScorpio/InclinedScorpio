@@ -5,10 +5,19 @@
  </div>
   <h1 align="center"><img src="./resources/ashutosh-tiwari-hi.gif" width="40" height="40"> 😃 Ashutosh Tiwari </h1>
   <h3 align="center">Full Stack Web Development | Blogging | Affiliate Marketing | SEO | Crypto </h3>
-  <p align="center">
-  <a href="https://www.linkedin.com/in/ashutosh3309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/InclinedScorpio/InclinedScorpio/master/resources/linkedin_icon.png" alt="lin_ovindu" height="30" width="30" /></a>  
-  </p>
   
+  <p align="center">
+  
+  <h2 align="center">Have "Career" or "Abroad Studies" doubt ❓
+  <p>Feel free to ping 😇👇 </p>
+     
+ - [My LINKEDIN 👉 <img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png" width="35" height="35" />](https://www.linkedin.com/in/ashutosh3309)
+- [My INSTAGRAM 👉 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="30" height="30" />](https://www.instagram.com/ashu_tosh_tiwari)
+</h2>
+
+  </p>
+
+---
   
   
   <p align="center">
